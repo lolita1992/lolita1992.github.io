@@ -15,11 +15,6 @@ def foo
 end
 {% endhighlight %}
 
-```ruby
-  def foo
-    puts 'foo'
-  end
-  ```
 ```
 Attentions (放在开头)：
 
