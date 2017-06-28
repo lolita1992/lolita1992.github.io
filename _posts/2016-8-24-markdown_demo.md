@@ -3,6 +3,7 @@ layout: post
 title: Markdown Demo
 categories: markdown
 date: 2016-08-24 12:38:11
+excerpt: This is excerpt。
 pid: 20160824-123811
 pin: 100
 # you can override the settings in _config.yml here !!
