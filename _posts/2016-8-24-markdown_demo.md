@@ -10,6 +10,11 @@ pin: 100
 ---
 
 > 一个用来测试当前站点的Markdown样式的Demo
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
 ```
 Attentions (放在开头)：
