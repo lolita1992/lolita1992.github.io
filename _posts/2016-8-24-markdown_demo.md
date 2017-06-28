@@ -38,7 +38,11 @@ Attentions (放在开头)：
 {:use_numbered_headers => true}
 * auto-gen TOC:
 {:toc}
-
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 # Kramdown Markdown Syntax
 
 # H1
